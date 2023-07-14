@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Hexatox
+- 👀 I’m interested in Web Development / UI Design 
+- 🌱 I’m currently learning C++ / Web Development
+- 💻 I'm a ComputerScinece Student 
